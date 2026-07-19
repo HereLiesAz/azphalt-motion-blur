@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.layer-motion-blur",
+  "id": "com.hereliesaz.azphalt.motion-blur",
   "name": "Cinematic Motion Blur",
   "version": "1.0.0",
   "kind": "asset",
